@@ -1,6 +1,6 @@
-[![Kayla Kremer Banner](https://github.com/KaylaKremer/KaylaKremer/blob/master/images/GitHub-Header.png)](https://www.kaylakremer.com)
+[![Kayla Kremer Banner](https://github.com/kaylakremer/kaylakremer/blob/master/images/GitHub-Header.png)](https://www.kaylakremer.com)
 
-## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
+## Hi there, my name is <𝙺𝚊𝚢𝚕𝚊/> <img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
 I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
@@ -57,14 +57,14 @@ const Kayla = {
 
 
 ## 🎨 Learning 
-<a href="https://threejs.org/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/threejs.png" alt="three.js" width="125px" height="130px" /></a>
-<a href="https://greensock.com/gsap/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/greensock.png" alt="greensock" width="200px" /></a>
+<a href="https://threejs.org/"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/threejs.png" alt="three.js" width="125px" height="130px" /></a>
+<a href="https://greensock.com/gsap/"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/greensock.png" alt="greensock" width="200px" /></a>
 
 
 ## 🚀 Current Projects
 My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.github.io/#/)
 <br />
-<img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/octocat.gif" width="100px" />
+<img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/octocat.gif" width="100px" />
 
 
 ## 📊 Stats
@@ -74,16 +74,16 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="visitor count" /></td>
+    <td><img src="https://profile-counter.glitch.me/kaylakremer/count.svg" alt="visitor count" /></td>
   </tr>
 </table>
 
 
 ## 💌 Connect
 <!-- Icons made by Freepik from www.flaticon.com -->
-<a href="https://www.kaylakremer.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kaylakremer/"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/kayla_kremer"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/KaylaKremer/KaylaKremer/discussions/categories/q-a"><img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaylakremer.com"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/web.png" width="48px" alt="portfolio website" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kaylakremer"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/linkedin.png" width="48px" alt="linkedin" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/kayla_kremer"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/twitter.png" width="48px" alt="twitter" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kremer.kayla@gmail.com"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/email.png" width="48px" alt="gmail" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kaylakremer/kaylakremer/discussions/categories/q-a"><img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/conversation.png" alt="github issues" width="48px" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
 
