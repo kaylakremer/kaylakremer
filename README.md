@@ -11,11 +11,11 @@ const Kayla = {
   pronouns: "She/Her",
   jobTitle: "Software Engineer II",
   company: "Harvest",
-  education: "Videogame Design",
+  education: "Videogame Design BFA",
   skills: {
     frontend: ["JavaScript", "TypeScript" "React", "Redux Toolkit", "HTML5", "CSS3", "Git"],
     backend: ["Node.js", "Ruby on Rails"],
-    mobile: ["React Native", "Swift"]
+    mobile: ["React Native", "Swift"],
     design: ["PhotoShop", "Illustrator", "Blender"]
   },
   favorites: ["React/React Native", "TensorFlow.js", "THREE.js", "GSAP3"], 
