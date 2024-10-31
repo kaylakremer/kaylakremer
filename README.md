@@ -29,10 +29,12 @@ const Kayla = {
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=%23ffffff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23ffffff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23000000) 
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23000000) 
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux) 
+![Swift](https://img.shields.io/badge/-Swift-%23F05138?style=flat-square&logo=swift&logoColor=%23ffffff) 
+![Xcode](https://img.shields.io/badge/-Xcode-%23147EFB?style=flat-square&logo=xcode&logoColor=%23ffffff) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=%23ffffff) 
 ![Three.js](https://img.shields.io/badge/-Three.js-%23000000?style=flat-square&logo=three.js&logoColor=%23ffffff) 
 ![GSAP](https://img.shields.io/badge/-GSAP-%2388CE02?style=flat-square&logo=greensock&logoColor=%23ffffff) 
@@ -44,10 +46,11 @@ const Kayla = {
 ![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress&logoColor=%23ffffff) 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=%23ffffff) 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23000000) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github) 
 ![Bitrise](https://img.shields.io/badge/-Bitrise-%23683D87?style=flat-square&logo=bitrise&logoColor=%23ffffff) 
+![Bugsnag](https://img.shields.io/badge/-Bugsnag-%234949E4?style=flat-square&logo=bugsnag&logoColor=%23ffffff) 
 ![Sentry](https://img.shields.io/badge/-Sentry-%23362D59?style=flat-square&logo=sentry&logoColor=%23ffffff) 
 ![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
@@ -74,7 +77,7 @@ My new portfolio site (WIP) 🔜 [kaylakremer.github.io](https://kaylakremer.git
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kaylakremer/count.svg" alt="visitor count" /></td>
+    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="visitor count" /></td>
   </tr>
 </table>
 
